@@ -1,0 +1,45 @@
+﻿  FileName.cpp
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(8,10): warning C4477: 'printf' : format string '%lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(20,10): warning C4477: 'printf' : format string '%lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(83,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(87,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(360,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(538,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(550,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(886,11): warning C4477: 'printf' : format string '%4d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(908,11): warning C4477: 'printf' : format string '%4d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(918,11): warning C4477: 'printf' : format string '%4d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(926,10): warning C4477: 'printf' : format string '%4d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(974,11): warning C4778: 'printf' : unterminated format string '%4'
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(974,24): warning C4474: 'printf' : too many arguments passed for format string
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(974,24): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1005,9): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1006,9): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1037,39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1708,9): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1708,9): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1708,9): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1708,9): warning C4566: character represented by universal-character-name '\u1EA7' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1708,9): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1716,11): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1716,11): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1716,11): warning C4566: character represented by universal-character-name '\u1EA7' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1769,9): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1769,9): warning C4566: character represented by universal-character-name '\u1EC9' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1769,9): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1769,9): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1769,9): warning C4566: character represented by universal-character-name '\u1ED9' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1769,9): warning C4566: character represented by universal-character-name '\u1EA7' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1769,9): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1861,9): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1861,9): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1861,9): warning C4566: character represented by universal-character-name '\u1EA7' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1861,9): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1861,9): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1861,9): warning C4566: character represented by universal-character-name '\u1EC1' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(1861,9): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(2053,5): error C2084: function 'int kiemTraBangNhau(int [],int)' already has a body
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(2043,5): message : see previous definition of 'kiemTraBangNhau'
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(2103,6): error C2084: function 'void HoanVi(int &,int &)' already has a body
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(795,6): message : see previous definition of 'HoanVi'
+F:\Learn from F8 and VNS\BaitapVNS\Mang1chieu\GiaiBaiTapTongHop\FileName.cpp(2116,5): error C2065: 'HoanVi': undeclared identifier

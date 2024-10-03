@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\BaitapVNS\Vonglap\Bai1\Source.cpp(47,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\BaitapVNS\Vonglap\Bai1\Source.cpp(82,2): warning C4551: function call missing argument list
+  Bai1.vcxproj -> F:\BaitapVNS\Vonglap\x64\Debug\Bai1.exe

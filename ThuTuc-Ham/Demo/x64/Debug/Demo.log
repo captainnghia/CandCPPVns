@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\BaitapVNS\ThuTuc-Ham\Demo\Source.cpp(15,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\BaitapVNS\ThuTuc-Ham\Demo\Source.cpp(34,2): warning C4551: function call missing argument list
+  Demo.vcxproj -> F:\BaitapVNS\ThuTuc-Ham\x64\Debug\Demo.exe

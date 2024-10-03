@@ -1,0 +1,6 @@
+﻿  Source.cpp
+F:\BaitapVNS\ThuTuc-Ham\BaiDocSo\Source.cpp(5,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\BaitapVNS\ThuTuc-Ham\BaiDocSo\Source.cpp(8,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\BaitapVNS\ThuTuc-Ham\BaiDocSo\Source.cpp(63,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\BaitapVNS\ThuTuc-Ham\BaiDocSo\Source.cpp(74,2): warning C4551: function call missing argument list
+  BaiDocSo.vcxproj -> F:\BaitapVNS\ThuTuc-Ham\x64\Debug\BaiDocSo.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\HInhChuNhat\Source.cpp(83,14): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\HInhChuNhat\Source.cpp(97,15): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\HInhChuNhat\Source.cpp(119,2): warning C4551: function call missing argument list
+  HInhChuNhat.vcxproj -> F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\x64\Debug\HInhChuNhat.exe

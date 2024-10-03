@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\BaitapVNS\Vonglap\Luyentap\Source.cpp(16,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\BaitapVNS\Vonglap\Luyentap\Source.cpp(19,5): warning C4551: function call missing argument list
+  Luyentap.vcxproj -> F:\BaitapVNS\Vonglap\x64\Debug\Luyentap.exe

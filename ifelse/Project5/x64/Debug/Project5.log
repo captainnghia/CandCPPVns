@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\BaitapVNS\Project5\Source.cpp(32,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\BaitapVNS\Project5\Source.cpp(33,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\BaitapVNS\Project5\Source.cpp(47,2): warning C4551: function call missing argument list
+  Project5.vcxproj -> F:\BaitapVNS\Bai5tailop\x64\Debug\Project5.exe

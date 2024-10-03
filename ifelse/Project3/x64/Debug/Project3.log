@@ -1,0 +1,8 @@
+﻿  Source.cpp
+F:\BaitapVNS\Project3\Source.cpp(14,3): warning C4551: function call missing argument list
+F:\BaitapVNS\Project3\Source.cpp(27,3): warning C4551: function call missing argument list
+F:\BaitapVNS\Project3\Source.cpp(36,4): warning C4551: function call missing argument list
+F:\BaitapVNS\Project3\Source.cpp(40,3): warning C4551: function call missing argument list
+F:\BaitapVNS\Project3\Source.cpp(45,3): warning C4551: function call missing argument list
+F:\BaitapVNS\Project3\Source.cpp(53,2): warning C4551: function call missing argument list
+  Project3.vcxproj -> F:\BaitapVNS\Bai5tailop\x64\Debug\Project3.exe

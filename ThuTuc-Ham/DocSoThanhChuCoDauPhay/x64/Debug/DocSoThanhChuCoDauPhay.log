@@ -1,0 +1,10 @@
+﻿  Source.cpp
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\DocSoThanhChuCoDauPhay\Source.cpp(106,24): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\DocSoThanhChuCoDauPhay\Source.cpp(108,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\DocSoThanhChuCoDauPhay\Source.cpp(118,16): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\DocSoThanhChuCoDauPhay\Source.cpp(119,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\DocSoThanhChuCoDauPhay\Source.cpp(178,24): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\DocSoThanhChuCoDauPhay\Source.cpp(180,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\DocSoThanhChuCoDauPhay\Source.cpp(200,16): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\DocSoThanhChuCoDauPhay\Source.cpp(201,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  DocSoThanhChuCoDauPhay.vcxproj -> F:\Learn from F8 and VNS\BaitapVNS\ThuTuc-Ham\x64\Debug\DocSoThanhChuCoDauPhay.exe

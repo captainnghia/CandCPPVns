@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\BaitapVNS\ThuTuc-Ham\Demo2\Source.cpp(31,10): warning C4129: ' ': unrecognized character escape sequence
+F:\BaitapVNS\ThuTuc-Ham\Demo2\Source.cpp(54,2): warning C4551: function call missing argument list
+  Demo2.vcxproj -> F:\BaitapVNS\ThuTuc-Ham\x64\Debug\Demo2.exe

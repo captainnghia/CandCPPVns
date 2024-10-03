@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\lamquenvisual\project3\main.cpp(25,18): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+F:\lamquenvisual\project3\main.cpp(25,18): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+F:\lamquenvisual\project3\main.cpp(28,2): warning C4551: function call missing argument list
+  project3.vcxproj -> F:\lamquenvisual\x64\Debug\project3.exe

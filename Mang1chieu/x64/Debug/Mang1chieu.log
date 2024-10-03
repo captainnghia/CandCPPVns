@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+F:\BaitapVNS\Mang1chieu\FileName.cpp(22,6): warning C4101: 'a': unreferenced local variable
+F:\BaitapVNS\Mang1chieu\FileName.cpp(23,6): warning C4101: 'n': unreferenced local variable
+  Mang1chieu.vcxproj -> F:\BaitapVNS\Mang1chieu\x64\Debug\Mang1chieu.exe

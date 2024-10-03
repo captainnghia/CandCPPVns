@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\BaitapVNS\Project8\Source.cpp(8,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\BaitapVNS\Project8\Source.cpp(112,2): warning C4551: function call missing argument list
+  Project8.vcxproj -> F:\BaitapVNS\Bai5tailop\x64\Debug\Project8.exe

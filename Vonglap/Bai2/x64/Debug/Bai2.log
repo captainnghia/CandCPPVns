@@ -1,0 +1,6 @@
+﻿  Source.cpp
+F:\BaitapVNS\Vonglap\Bai2\Source.cpp(16,11): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+F:\BaitapVNS\Vonglap\Bai2\Source.cpp(16,11): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+F:\BaitapVNS\Vonglap\Bai2\Source.cpp(36,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\BaitapVNS\Vonglap\Bai2\Source.cpp(63,2): warning C4551: function call missing argument list
+  Bai2.vcxproj -> F:\BaitapVNS\Vonglap\x64\Debug\Bai2.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\lamquenvisual\bai3tailop\Source.cpp(15,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\lamquenvisual\bai3tailop\Source.cpp(103,2): warning C4551: function call missing argument list
+  bai3tailop.vcxproj -> F:\lamquenvisual\project3\x64\Debug\bai3tailop.exe

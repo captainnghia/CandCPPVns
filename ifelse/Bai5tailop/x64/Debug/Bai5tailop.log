@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\BaitapVNS\Bai5tailop\Source.cpp(10,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\BaitapVNS\Bai5tailop\Source.cpp(14,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\BaitapVNS\Bai5tailop\Source.cpp(25,2): warning C4551: function call missing argument list
+  Bai5tailop.vcxproj -> F:\BaitapVNS\Bai5tailop\x64\Debug\Bai5tailop.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\lamquenvisual\bai11\Source.cpp(8,34): error C2106: '=': left operand must be l-value
+F:\lamquenvisual\bai11\Source.cpp(12,2): warning C4551: function call missing argument list

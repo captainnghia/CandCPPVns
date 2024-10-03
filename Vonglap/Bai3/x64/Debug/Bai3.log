@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\BaitapVNS\Vonglap\Bai3\Source.cpp(27,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\BaitapVNS\Vonglap\Bai3\Source.cpp(31,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\BaitapVNS\Vonglap\Bai3\Source.cpp(105,2): warning C4551: function call missing argument list
+  Bai3.vcxproj -> F:\BaitapVNS\Vonglap\x64\Debug\Bai3.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\lamquenvisual\Bai8\main.cpp(10,13): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+F:\lamquenvisual\Bai8\main.cpp(17,2): warning C4551: function call missing argument list
+  Bai8.vcxproj -> F:\lamquenvisual\x64\Debug\Bai8.exe
