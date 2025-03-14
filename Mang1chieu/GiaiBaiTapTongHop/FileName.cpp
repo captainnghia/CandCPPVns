@@ -136,7 +136,7 @@ void GiaTriDuongNhoNhat(double a[], int n, double& MinDuong, int& ViTri) {
 
 }
 //Bài 142 / 59 / SBT Thầy NTTMK : Tìm "giá trị nhỏ nhất" trong mảng một chiều các
-//số thực.
+//số thực.adsfkasjfd
 
 double timGiatriNhoNhat(double a[], int n) {
 	double Min = a[0];

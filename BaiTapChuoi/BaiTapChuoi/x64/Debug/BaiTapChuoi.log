@@ -1,6 +1,0 @@
-﻿  Bai1.cpp
-F:\Learn from F8 and VNS\BaitapVNS\BaiTapChuoi\BaiTapChuoi\Bai1.cpp(22,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-F:\Learn from F8 and VNS\BaitapVNS\BaiTapChuoi\BaiTapChuoi\Bai1.cpp(42,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-F:\Learn from F8 and VNS\BaitapVNS\BaiTapChuoi\BaiTapChuoi\Bai1.cpp(55,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-F:\Learn from F8 and VNS\BaitapVNS\BaiTapChuoi\BaiTapChuoi\Bai1.cpp(88,7): warning C4101: 'p': unreferenced local variable
-  BaiTapChuoi.vcxproj -> F:\Learn from F8 and VNS\BaitapVNS\BaiTapChuoi\BaiTapChuoi\x64\Debug\BaiTapChuoi.exe
