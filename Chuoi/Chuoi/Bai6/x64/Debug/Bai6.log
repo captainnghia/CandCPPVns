@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\Learn from F8 and VNS\BaitapVNS\Chuoi\Chuoi\Bai6\FileName.cpp(7,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bai6.vcxproj -> D:\Learn from F8 and VNS\BaitapVNS\Chuoi\Chuoi\Chuoi\x64\Debug\Bai6.exe
