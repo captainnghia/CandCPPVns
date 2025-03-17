@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\Learn from F8 and VNS\BaitapVNS\Chuoi\Chuoi\SuPerCanCulater\FileName.cpp(6,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Learn from F8 and VNS\BaitapVNS\Chuoi\Chuoi\SuPerCanCulater\FileName.cpp(23,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Learn from F8 and VNS\BaitapVNS\Chuoi\Chuoi\SuPerCanCulater\FileName.cpp(24,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SuPerCanCulater.vcxproj -> D:\Learn from F8 and VNS\BaitapVNS\Chuoi\Chuoi\Chuoi\x64\Debug\SuPerCanCulater.exe

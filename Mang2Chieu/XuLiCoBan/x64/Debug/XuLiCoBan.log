@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\XuLiCoBan\FileName.cpp(9,11): warning C4129: 'N': unrecognized character escape sequence
+D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\XuLiCoBan\FileName.cpp(17,11): warning C4129: '%': unrecognized character escape sequence
+D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\XuLiCoBan\FileName.cpp(126,16): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\XuLiCoBan\FileName.cpp(148,16): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\XuLiCoBan\FileName.cpp(206,9): warning C4129: 'S': unrecognized character escape sequence
+  XuLiCoBan.vcxproj -> D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\Mang2Chieu\x64\Debug\XuLiCoBan.exe

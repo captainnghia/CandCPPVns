@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\Mang2Chieu\FileName.cpp(8,11): warning C4129: 'N': unrecognized character escape sequence
+D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\Mang2Chieu\FileName.cpp(16,11): warning C4129: '%': unrecognized character escape sequence
+  Mang2Chieu.vcxproj -> D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\Mang2Chieu\x64\Debug\Mang2Chieu.exe
