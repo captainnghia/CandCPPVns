@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\CacKyThuatTrenMang2Chieu\FileName.cpp(65,61): warning C4474: 'printf' : too many arguments passed for format string
+  D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\CacKyThuatTrenMang2Chieu\FileName.cpp(65,61):
+  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+  CacKyThuatTrenMang2Chieu.vcxproj -> D:\Learn from F8 and VNS\BaitapVNS\Mang2Chieu\Mang2Chieu\x64\Debug\CacKyThuatTrenMang2Chieu.exe
