@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\CuocDuaCacConThu\Source.cpp(73): warning C4715: 'TimVanTocThucSu': not all control paths return a value
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\CuocDuaCacConThu\Source.cpp(86): warning C4715: 'TimThoiGianDiHetQuangDuong': not all control paths return a value
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\CuocDuaCacConThu\Source.cpp(98): warning C4715: 'TimThoiGianVeDich': not all control paths return a value
+  CuocDuaCacConThu.vcxproj -> D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\x64\Debug\CuocDuaCacConThu.exe

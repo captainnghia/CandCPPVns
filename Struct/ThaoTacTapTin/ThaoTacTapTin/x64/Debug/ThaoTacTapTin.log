@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\ThaoTacTapTin\Source.cpp(10,16): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\ThaoTacTapTin\Source.cpp(10,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\ThaoTacTapTin\Source.cpp(10,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\ThaoTacTapTin\Source.cpp(17,16): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\ThaoTacTapTin\Source.cpp(17,16): warning C4566: character represented by universal-character-name '\u1EE9' cannot be represented in the current code page (1252)
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\ThaoTacTapTin\Source.cpp(17,16): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\ThaoTacTapTin\Source.cpp(17,16): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\ThaoTacTapTin\Source.cpp(17,16): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+  ThaoTacTapTin.vcxproj -> D:\Learn from F8 and VNS\BaitapVNS\Struct\ThaoTacTapTin\x64\Debug\ThaoTacTapTin.exe
